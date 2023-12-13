@@ -1,0 +1,30 @@
+
+Privacy Policy for Custom GPT Model
+
+Effective Date: [Insert Date]
+
+Introduction
+This Privacy Policy outlines the types of personal information that is collected and recorded by our Custom GPT model and how it is used. This policy applies to all services offered by our Custom GPT model.
+
+1. Information Collection and Use
+We collect various types of information for various purposes to provide and improve our service to you. This includes, but is not limited to, data provided directly by users through interactions with the GPT model, and data collected automatically through the operation of the model.
+
+2. Data Security
+We are committed to ensuring the security of your data. We employ a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
+
+3. Sharing of Information
+We do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
+
+4. Your Data Rights
+You have the right to access, rectify, or erase any personal data we hold about you. You also have the right to data portability and the right to restrict or object to our processing of your personal data.
+
+5. Policy for Children
+Our service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Insert Contact Information].
+
+This policy is effective as of [Insert Effective Date].
